@@ -1,6 +1,6 @@
 # NATGAS TRADER
 
-A Rust CLI trading bot for natural gas ETFs (BOIL/KOLD) using weather data (HDD), EIA storage data, and NOAA storm alerts.
+A Rust CLI trading bot for natural gas 2x leverage ETFs (BOIL/KOLD) using weather data (HDD), EIA storage data, and NOAA storm alerts.
 
 ## Features
 
